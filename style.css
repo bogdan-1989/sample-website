@@ -1,0 +1,84 @@
+
+.mainpic {
+    background-image: url(picturemountains.jpg);
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 354px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    width: 940px;
+    height: 69px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu li {
+        display: inline;
+}
+
+.menu a {                  
+    float: left;
+    width: 150px;
+    height: 40px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 18px;
+    font-size: 15px;
+}
+
+.menu a:hover, a:active {
+    background-color: gray;}
+
+h1, h2 {color: blanchedalmond;}
+
+.off {
+    color: #3a6028;
+}
+
+.mainpic h1 {
+    position: absolute;
+    text-align: right;
+    font-size: 30px;
+    color: #fff;
+    left: 250px;
+    top: 20px;
+}
+
+.mainpic h2 {
+    position: absolute;
+    text-align: right;
+    font-size: 20px;
+    color: #fff;
+    left: 250px;
+    top: 50px;
+}
+.content {
+        width: 880px;
+        height: auto;
+        background-color: rgb(240, 229, 229);
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        margin-left: auto;
+        margin-right: auto;
+}
+.content h3 {
+        display: block;
+        font-size: 1.2em;
+        font-weight: bold;
+        left: 250px;
+}
+
+.content p {
+    font-size: 14px;
+    font-family: arial;
+    text-align: left;
+}
