@@ -1,36 +1,37 @@
+
 .mainpic {
-    background-image: url(picturemountains.jpg);
-    background-repeat: no-repeat;
-    width: 900px;
-    height: 354px;
-    margin-left: auto;
-    margin-right: auto;
+  background-image: url(picturemountains.jpg);
+  background-repeat: no-repeat;
+  width: 65%;
+  height: 354px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .menu {
-    background-image: url(logo.png);
-    background-repeat: no-repeat;
-    width: 940px;
-    height: 69px;
-    margin-left: auto;
-    margin-right: auto;
+  background-image: url(logo.png);
+  background-repeat: no-repeat;
+  width: 68%;
+  height: 69px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .menu li {
-        display: inline;
+      display: inline;
 }
 
 .menu a {                  
-    float: left;
-    width: 150px;
-    height: 40px;
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    font-weight: 700;
-    padding-top: 18px;
-    font-size: 15px;
+  float: left;
+  width: 140px;
+  height: 40px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  padding-top: 18px;
+  font-size: 15px;
 }
 
 .menu a:hover, a:active {
@@ -47,7 +48,7 @@ h1, h2 {color: blanchedalmond;}
     text-align: right;
     font-size: 30px;
     color: #fff;
-    left: 250px;
+    left: 25%;
     top: 20px;
 }
 
@@ -56,7 +57,7 @@ h1, h2 {color: blanchedalmond;}
     text-align: right;
     font-size: 20px;
     color: #fff;
-    left: 250px;
+    left: 25%;
     top: 50px;
 }
 
@@ -94,7 +95,7 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   width: 900px;
   height: 520px;
-  margin-left: 215px;
+  margin-left: 17%;
   
 }
 h3 { text-align: center; }

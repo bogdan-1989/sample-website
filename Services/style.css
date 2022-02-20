@@ -1,7 +1,8 @@
+
 .mainpic {
     background-image: url(picturemountains.jpg);
     background-repeat: no-repeat;
-    width: 900px;
+    width: 65%;
     height: 354px;
     margin-left: auto;
     margin-right: auto;
@@ -10,7 +11,7 @@
 .menu {
     background-image: url(logo.png);
     background-repeat: no-repeat;
-    width: 940px;
+    width: 68%;
     height: 69px;
     margin-left: auto;
     margin-right: auto;
@@ -22,7 +23,7 @@
 
 .menu a {                  
     float: left;
-    width: 150px;
+    width: 140px;
     height: 40px;
     display: block;
     text-align: center;
@@ -47,7 +48,7 @@ h1, h2 {color: blanchedalmond;}
     text-align: right;
     font-size: 30px;
     color: #fff;
-    left: 250px;
+    left: 25%;
     top: 20px;
 }
 
@@ -56,7 +57,7 @@ h1, h2 {color: blanchedalmond;}
     text-align: right;
     font-size: 20px;
     color: #fff;
-    left: 250px;
+    left: 25%;
     top: 50px;
 }
 
@@ -68,6 +69,6 @@ h3 {
 
 p {
     text-align: center;
-    margin-left: 220px;
-    margin-right: 220px;
+    margin-left: 22%;
+    margin-right: 22%;
 }
